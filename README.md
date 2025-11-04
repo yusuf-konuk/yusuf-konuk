@@ -4,19 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yusuf-konuk/count.svg?"  />
-</div>
-
-###
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-konuk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=228B22&border_color=2E8B57&locale=tr&hide_border=false&order=1" height="180" alt="istatistik grafiği" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-konuk&locale=tr&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=2E8B57&hide_border=false&order=2" height="180" alt="diller grafiği" style="max-width: 100%;" />
-</div>
-
-###
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <a href="https://linkedin.com/in/yusuf-konuk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=228B22&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
