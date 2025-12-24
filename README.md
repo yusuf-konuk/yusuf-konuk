@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #ffffff; font-size: 35px; font-weight: bold;">Merhaba! Ben Yusuf Konuk</h1>
+  <h1 style="color: #ffffff; font-size: 35px; font-weight: bold;">Selamlar, ben Yusuf.</h1>
 </div>
 
 ###
