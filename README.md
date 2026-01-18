@@ -1,22 +1,27 @@
-<div align="center">
-  <h1 style="color: #ffffff; font-size: 35px; font-weight: bold;">Selamlar, ben Yusuf.</h1>
-</div>
 
-###
+# Merhaba ben, Yusuf
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/yusufkonuk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=228B22&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/konukyf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=2E8B57&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:aboutkonuk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=228B22&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="email logo" />
-  </a>
-  <a href="https://t.me/yusufkonuk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=006400&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo" />
-  </a>
-</div>
+2019'da Lise'ye başlamamla beraber atılmış olduğum programlama hayatıma şu anda n8n otomasyonlarıyla devam ediyorum. 2020 ile 2021 arasında Frontend dillerini ve kütüphanelerini kullanarak (Bootstrap & React vb.) bir çok proje geliştirdim. 2022 yılında Backend tarafına geçerek Php ve JS tabanlı, Wordpress ağırlıklı websitesi projeleri geliştirdim. Eklenti ve tema geliştirerek devam ettiğim kariyerimi 2023 yılında Ai ile daha da güçlendirdim ve ağırlıklı olarak LLM, n8n ve farklı otomasyon sistemleriyle kendime ait bir çok yazılım ekosistemi ve servis geliştirdim. 2024 yılı itibariyla Ajans yönetmeye başladım ve şu anda Fırsat Web adında bir ajans yönetiyorum. 2024 yılında Konuk Web olarak açtığım ajansımın adını 2025 yazında Fırsat Web olarak güncelleme kararı aldım. 
 
-###
+
+## Yol Haritam Hakkında
+
+- Wordpress kullanmayı ve temel Frontend bileşenleri öğrendim.
+
+- Kendi Wordpress temamı geliştirmek için JS ve CSS öğrendim.
+
+- JS ve CSS'in yanında PHP, MySQL gibi Backend servisleri temel olarak öğrendim.
+
+- JS ve Python ile otomasyon yazmayı öğrendim
+
+- DOM manipülasyonu ve Algoritma kullanarak servis yazmayı öğrendim
+
+  
+## Ajansım Hakkında
+
+[Websitemiz](https://firsatweb.com) &
+[Facebook](https://facebook.com/firsatweb)&
+[Instagram](https://instagram.com/firsatweb)&
+[LinkedIN](https://linkedin.com/company/firsatweb)
+&
+  
